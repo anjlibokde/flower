@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Forget-Me-Not Flower",
+    "description": " These adorable pink, white, or blue flowers are charming at the front of borders. Make sure to plant one of the native species,Myosotis alpestris, laxa, macrosperma, or verna.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/pink-and-light-blue-myosotis-or-alpine-forget-me-royalty-free-image-1703084316.jpg?crop=0.602xw:1.00xh;0.300xw,0&resize=980:*"
+  },
+  {
+    "id": 2,
+    "name": "Daphne Shrub",
+    "description": " The sweet scent of daphne flowers is like no other, bringing color and fragrance to the late winter or spring garden. Its pretty blooms remind you spring is coming!",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/daphne-odona-japan-daphne-daphne-indica-royalty-free-image-1709586137.jpg?crop=1xw:0.83294xh;center,top&resize=980:*"
+  },
+  {
+    "id": 3,
+    "name": "Snowdrop",
+    "description": "Charming, nodding little heads pop up when snow still is on the ground in northern climates. These darling flowers, which are fall-planted bulbs, are deer and rabbit-resistant, too.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/spring-snowdrops-galanthus-nivalis-royalty-free-image-1709587839.jpg?crop=0.53358xw:1xh;center,top&resize=980:*"
+  },
+  {
+    "id": 4,
+    "name": "Bearded Iris",
+    "description": "Irises come in every imaginable shade from palest pink to deep purple and even nearly black. They're easy-care perennials; plant the rhizomes in the fall, and you'll have flowers for years.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/beautiful-purple-iris-royalty-free-image-1709587245.jpg?crop=1xw:0.85379xh;center,top&resize=980:*"
+  },
+  {
+    "id": 5,
+    "name": "Dahlia",
+    "description": "The sheer number of varieties of dahlias are astounding. You can grow everything from tiny pom pom shaped balls to dinner-plate sized blooms in every color of the rainbow. They're perennial in the South, but the bulbs must be dug up in the fall in northern climates and replanted in the spring. ",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/close-up-of-pink-flowering-plants-royalty-free-image-1709587708.jpg?crop=1.00xw:0.834xh;0,0.106xh&resize=980:*"
+  },
+  {
+    "id": 6,
+    "name": "Lavender",
+    "description": " This incredibly-scented perennial is gorgeous when planted in large swaths. Make sure you choose a variety that will survive winters in your region.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/lavenders-royalty-free-image-1679319793.jpg?crop=0.53333xw:1xh;center,top&resize=980:*"
+  },
+  {
+    "id": 7,
+    "name": "Azalea",
+    "description": " These pretty shrubs tell you spring is in full swing. They're gorgeous when planted in masses with other spring-flowering perennials. Some types bloom again later in the season. ",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/close-up-of-pink-azalea-flowers-filling-frame-royalty-free-image-1709656178.jpg?crop=0.53333xw:1xh;center,top&resize=980:*"
+  },
+  {
+    "id": 8,
+    "name": "Mandevilla",
+    "description": "  This vining plant needs a trellis to show off its gorgeous trumpet-shaped blooms. They come in shades of pinks and reds. You even can bring it indoors to winter it over until next spring, but give it tons of bright light (and expect it to drop some foliage).",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/mandevilla-flower-in-bloom-royalty-free-image-1585165592.jpg?crop=0.539xw:1.00xh;0.145xw,0&resize=980:*"
+  },
+  {
+    "id": 9,
+    "name": "Cranesbill",
+    "description": " The delicate pink, purple, or white flowers bloom in profusion atop dainty fern-like foliage. Cranesbill is a super-hardy ground cover plant that has a pleasant, minty scent that causes deer and rabbits to leave it alone.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/cranesbills-flowering-plant-geranium-rozanne-royalty-free-image-1709588007.jpg?crop=0.533xw:1.00xh;0.127xw,0&resize=980:*"
+  },
+  {
+    "id": 10,
+    "name": "Coral Bells",
+    "description": "Coral bells is low-maintenance perennial that's typically grown more for its bright foliage, which comes in every shade from lime green to deep burgundy. However, its tiny spikes of flowers also are loved by hummingbirds. ",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/blossoming-alumroot-in-the-garden-royalty-free-image-1709586896.jpg?crop=0.536xw:1.00xh;0.244xw,0&resize=980:*"
+  },
+  {
+    "id": 11,
+    "name": "Foam Flower",
+    "description": "   Masses of frilly white flower spikes make this perennial a lovely addition to the spring garden. Evergreen foliage adds interest in the off-season.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/white-tiarella-spring-symphony-foam-flower-in-bloom-royalty-free-image-1709589477.jpg?crop=0.536xw:1.00xh;0.336xw,0&resize=980:*"
+  },
+  {
+    "id": 12,
+    "name": "Bee Balm",
+    "description": " The fringed flowers of bee balm are a favorite of all types of pollinators, from bees and butterflies to hummingbirds. It's also deer resistant so it's a great perennial for gardens where Bambi likes to browse.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/flowering-garden-royalty-free-image-1709589346.jpg?crop=1.00xw:0.835xh;0,0.0868xh&resize=980:*"
+  },
+  {
+    "id": 13,
+    "name": "Celosia",
+    "description": " The sturdy plumes of celosia offer long-lasting color in the summer garden. They also make beautiful additions to bouquets because they last for weeks in the vase.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/celosia-spicata-spreng-a-bouquet-of-flowers-a-royalty-free-image-1709588867.jpg?crop=0.536xw:1.00xh;0.133xw,0&resize=980:*"
+  },
+  {
+    "id": 14,
+    "name": "Tulip",
+    "description": " Their stately blooms announce that spring has arrived! Plant the bulbs in the fall, but be aware that they're often iffy about coming back in subsequent years. Treat them as annuals and replant new bulbs the next fall.",
+    "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/16/18/tulip.jpg?crop=0.536xw:1.00xh;0.0182xw,0&resize=980:*"
+  },
+  {
+    "id": 15,
+    "name": "Phlox",
+    "description": " You'll find many different types of phlox, but most are sweetly scented and perfectly suited for a cottage garden. Look for newer varieties which are more disease resistant. ",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/close-up-image-of-the-beautiful-variegated-garden-royalty-free-image-1709674499.jpg?crop=0.536xw:1.00xh;0.306xw,0&resize=980:*"
+  },
+  {
+    "id": 16,
+    "name": "Daffodil",
+    "description": "Their bobbing heads are one of the earliest signs of spring--plus, rodents won't bother these bulbs (unlike tulips  and crocuses). Plant in the fall for spring flowers, which should return for many years.",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/daffodil-trio-royalty-free-image-1582664733.jpg?crop=0.53308xw:1xh;center,top&resize=980:*"
+  }
+]
